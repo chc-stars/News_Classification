@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\CODE\\python/\346\226\260\351\227\273\345\210\206\347\261\273/News_Classification\\Saved_model/textcnn/best_validation"
+all_model_checkpoint_paths: "E:\\CODE\\python/\346\226\260\351\227\273\345\210\206\347\261\273/News_Classification\\Saved_model/textcnn/best_validation"
